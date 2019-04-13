@@ -1,5 +1,6 @@
-Uploaded base website - Mitchell Orr 09/04/2019
-Uploaded partial build of website - Mitchell Orr 11/04/2019 6:00pm
-Uploaded partial build of website more detail - Mitchell Orr 11/04/2019 6:30pm
-Uploaded Image assests from tests for Alex and Allan - Mitchell Orr 13/04/2019 3:00pm
-Uploaded near complete build for Ideal Jobs page - Mitchell Orr 13/04/2019 3:00pm
+Uploaded base website - Mitchell Orr 09/04/2019 6:00pm ACST
+Uploaded partial build of website - Mitchell Orr 11/04/2019 6:00pm ACST
+Uploaded partial build of website more detail - Mitchell Orr 11/04/2019 6:30pm ACST
+Uploaded Image assests from tests for Alex and Allan - Mitchell Orr 13/04/2019 3:00pm ACST
+Uploaded near complete build for Ideal Jobs page - Mitchell Orr 13/04/2019 3:00pm ACST
+Uploaded near complete build for Alex & Allan personal info - Mitchell Orr 13/04/2019 3:05pm ACST
